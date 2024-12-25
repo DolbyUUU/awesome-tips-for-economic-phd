@@ -4,16 +4,6 @@ A **curated collection** of materials designed for economists and economics PhD 
 
 ---
 
-## 📘 Topics  
-
-1. [Slides of Journal Editors](#slides-of-journal-editors)  
-2. [Tips for Academic Writing](#tips-for-academic-writing)  
-3. [Tips for Job Market](#tips-for-job-market)  
-4. [Tips for Referee Reports](#tips-for-referee-reports)  
-5. [Tips for Research and Publishing](#tips-for-research-and-publishing)  
-
----
-
 ## 📂 Slides of Journal Editors  
 
 These slides provide insights directly from journal editors on what they look for in submissions and how to navigate the peer-review process.
