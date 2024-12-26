@@ -8,7 +8,7 @@ A **curated collection** of materials designed for economists and economics PhD 
 
 These slides provide insights directly from journal editors on what they look for in submissions and how to navigate the peer-review process.
 
-- **EE** (*Econometrica*)  
+- **EE** (*Experimental Economics*)  
 - **GEB** (*Games and Economic Behavior*)  
 - **IJIO** (*International Journal of Industrial Organization*)  
 - **JDE** (*Journal of Development Economics*)  
